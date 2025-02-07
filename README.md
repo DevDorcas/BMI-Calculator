@@ -22,7 +22,7 @@ To run this project locally, ensure you have the following:
 - (Optional) A code editor like VSCode.
 
 ## Demo 
-
+You can access the live version of this BMI Calculator [here](https://mybmi-app.netlify.app/)
 
 ## Installation
 1. Clone the Repository:
