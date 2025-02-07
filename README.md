@@ -1,8 +1,22 @@
 # BMI Calculator
-A simple and interactive body mass calculator that shows the weight and height inputed, calculates the body mass and also predicts the health status of the weight inputed.
+A simple and interactive body mass calculator that shows the weight and height inputed, calculates the body mass
+and also predicts the health status of the weight inputed.
 
 ## Screenshot
 ![BMI calculator](https://github.com/user-attachments/assets/c0de58ba-c6e4-4c13-a4df-b0b8d29e1dc2)
+
+## Table of Content
+- [Features](#features)
+- [Technologies Used](#technologiesused)
+- [Getting Started](#gettingstarted)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
+
+
 
 ## Features 
 - Weight and height input form.
