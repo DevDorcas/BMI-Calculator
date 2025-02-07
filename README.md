@@ -25,6 +25,42 @@ To run this project locally, ensure you have the following:
 
 
 ## Installation
-1. Clone the Repository
+1. Clone the Repository:
 ```
-git clone 
+git clone https://github.com/DevDorcas/BMI-Calculator.git
+```
+2. Navigate to the project folder:
+```
+cd BMI Calculator
+```
+3. Run the App
+- Open index.html in your browser.
+- Alternatively, use a local development server (e.g., Live Server in VSCode).
+
+## Usage
+- Enter the weight and height value in the form provided.
+- Press submit to record and calculate the BMI value
+- Press Reset to start over the process
+
+## Contributing
+Contributions are welcome! Here's how you can help:
+1. Fork the repository.
+2. Create a new branch:
+```
+git checkout -b feature-name
+```
+3. Commit your message:
+```
+git commit -m "Add your changes"
+```
+4. Push to the branch:
+```
+git push origin feature-name
+```
+5. Open a pull request.
+
+## Contact 
+- Name: Dorcas Popoola
+- Email: popooladorcas89@gmail.com
+- GitHub: devDorcas
+
